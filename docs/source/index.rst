@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Hướng dẫn sử dụng LMS MegaUni!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
